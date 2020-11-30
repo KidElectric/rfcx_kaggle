@@ -1,7 +1,7 @@
 rfcx
 ==============================
 
-Project files for RFCX sound detection kaggle competition.
+Project files for RFCX sound detection kaggle competition: https://www.kaggle.com/c/rfcx-species-audio-detection/overview
 
 Project Organization
 ------------
